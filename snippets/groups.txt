@@ -1,0 +1,15 @@
+🚀 节点选择`select`[]🎯 全球直连`.*
+🌌 YouTube`select`[]🚀 节点选择`[]🇭🇰 HK`[]🇯🇵 JP`[]🇸🇬 SG
+🎥 NETFLIX`select`[]🚀 节点选择`[]🇭🇰 HK`[]🇯🇵 JP`[]🇸🇬 SG`[]🇹🇼 TW
+📺 巴哈姆特`select`(深台|彰化|新北|台|Taiwan|TW)
+🎬 哔哩哔哩 港澳台`select`[]🎯 全球直连`(深台|彰化|新北|台|Taiwan|TW|香港|HK|Hong Kong)
+🌍 国外媒体`select`[]🚀 节点选择`[]🇯🇵 JP`[]🇹🇼 TW`[]🇭🇰 HK`[]🇸🇬 SG
+Ⓜ️ 微软服务`select`[]🎯 全球直连`[]🚀 节点选择`
+📲 电报信息`select`[]🚀 节点选择`[]🇯🇵 JP`[]🇹🇼 TW`[]🇭🇰 HK`[]🇸🇬 SG
+🍎 苹果服务`select`[]🚀 节点选择`[]🎯 全球直连`[]🇯🇵 JP`[]🇹🇼 TW`[]🇭🇰 HK`[]🇸🇬 SG
+🎯 全球直连`select`[]DIRECT
+🐟 漏网之鱼`select`[]🚀 节点选择`[]🎯 全球直连`.*
+🇯🇵 JP`select`日本`(Japan|日|JP)
+🇹🇼 TW`select`台湾`(Taiwan|台|TW)
+🇭🇰 HK`select`香港`(Hong Kong|港|HK)
+🇸🇬 SG`select`新加坡`(Singapore|新|SGP)
